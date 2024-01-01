@@ -1,6 +1,6 @@
 [build]
   command = "npm run build"
-  functions = "/"  
+  functions = "/server.js"  
   publish = "build"
 
 [[redirects]]
